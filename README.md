@@ -53,7 +53,7 @@ A console-based Math Quiz Game built with C++ that allows players to customize t
 - Arithmetic operations
 - Basic game logic and result evaluation
 
-## Author
+## Developer
 
 Ahmed Ghanem
 
