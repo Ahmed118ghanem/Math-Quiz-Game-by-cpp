@@ -56,7 +56,6 @@ A console-based Math Quiz Game built with C++ that allows players to customize t
 ## Developer
 
 Ahmed Ghanem
-
 ---
 
 *A C++ project focused on practicing arithmetic operations, improving problem-solving skills, and applying fundamental programming concepts through an interactive quiz.*
